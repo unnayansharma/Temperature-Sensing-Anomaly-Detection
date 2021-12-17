@@ -1,18 +1,19 @@
-""" TWILIO CONFIGURATION """  
-SSID = 'AC34c84d9c4838468a1c91740f8e5c6397'  
-AUTH_TOKEN = '62c6aa1f30b990c18fdabd0f4f975c38' 
-FROM_NUMBER='+12182926890' 
-TO_NUMBER = '+91..........'
-""" MAILGUN CONFIGURATION """  
-MAILGUN_API_KEY = 'fb6e7bb48d40b1af9da279b7c3cb7911-8ed21946-e3469f94'
-SANDBOX_URL = 'https://api.mailgun.net/v3/sandboxe4c6c0cdeeac47dd85ef610857016084.mailgun.org'
-SENDER_MAIL = 'sandboxe4c6c0cdeeac47dd85ef610857016084.mailgun.org'
-RECIPIENT_MAIL = 'newsatlive2399@gmail.com'   
-""" BOLT IOT CONFIGURATION """  
-API_KEY = '305d4fe8-46ce-4b17-9372-973c117f39df'
-DEVICE_ID = 'BOLT293451'
+""" TWILIO CONFIGURATION """
+SSID = 'AC051c1cc8f7deb24b151477e9ef73f77e' 
+AUTH_TOKEN = 'b7b78e5fbccb219d8ac65f2c7fc962fe' 
+FROM_NUMBER='+12512501646'
+TO_NUMBER = '+91**********'
+  
+""" MAILGUN CONFIGURATION """
+MAILGUN_API_KEY = '190f96b46676f5fccc3bff592ec42151-73ae490d-989437cc'
+SANDBOX_URL = 'sandboxadb67c45bc0d43d483c056b5a1f2034c.mailgun.org'
+SENDER_MAIL = 'test@sandboxadb67c45bc0d43d483c056b5a1f2034c.mailgun.org'
+RECIPIENT_MAIL = '*******@gmail.com  
+""" BOLT IOT CONFIGURATION """
+API_KEY = '*****************************'
+DEVICE_ID = 'BOLT6097300'
 FRAME_SIZE = 10
-MUL_FACTOR = 6
+MUL_FACTOR = 6 
 
 
 import json,time,math,statistics,conf,requests  
