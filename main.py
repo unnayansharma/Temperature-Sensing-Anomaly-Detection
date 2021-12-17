@@ -2,7 +2,7 @@
 SSID = 'AC34c84d9c4838468a1c91740f8e5c6397'  
 AUTH_TOKEN = '62c6aa1f30b990c18fdabd0f4f975c38' 
 FROM_NUMBER='+12182926890' 
-TO_NUMBER = 'Enter Your Number Here'
+TO_NUMBER = '+91..........'
 """ MAILGUN CONFIGURATION """  
 MAILGUN_API_KEY = 'fb6e7bb48d40b1af9da279b7c3cb7911-8ed21946-e3469f94'
 SANDBOX_URL = 'https://api.mailgun.net/v3/sandboxe4c6c0cdeeac47dd85ef610857016084.mailgun.org'
